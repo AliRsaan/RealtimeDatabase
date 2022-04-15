@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "249753118976",
+    "project_id": "realtime-database-b9003",
+    "storage_bucket": "realtime-database-b9003.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:249753118976:android:52d4ff3ee7ba9d366cabe5",
+        "android_client_info": {
+          "package_name": "com.edugaon.realtimedatabase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "249753118976-cr7btn2eh7946v7a5go15tqra5bh5vv8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDcdY-Txzrc5oYtrdVUe0A6Qdadm7v7oIo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "249753118976-cr7btn2eh7946v7a5go15tqra5bh5vv8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
